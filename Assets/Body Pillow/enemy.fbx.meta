@@ -1,0 +1,1441 @@
+fileFormatVersion: 2
+guid: 17ef1dd25b3c06145a549dee091d69ff
+timeCreated: 1429457964
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.003_L.005.R
+    100004: Bone.R
+    100006: Elbow_Target_L
+    100008: Elbow_Target_R
+    100010: //RootNode
+    100012: Fingers_L.L
+    100014: Fingers_R.R
+    100016: Group28484.003
+    100018: Hand_L.L
+    100020: Hand_R.R
+    100022: Head
+    100024: IK_Arm_L.L
+    100026: IK_Arm_R.R
+    100028: IK_Leg_L.L
+    100030: IK_Leg_R.R
+    100032: Inner_Tentacle1_L.L
+    100034: Inner_Tentacle1_R.R
+    100036: Inner_Tentacle2_L.L
+    100038: Inner_Tentacle2_R.R
+    100040: Inner_Tentacle_IK_L
+    100042: Inner_Tentacle_IK_R
+    100044: Lower_Arm_L.L
+    100046: Lower_Arm_R.R
+    100048: Lower_Leg_L.L
+    100050: Lower_Leg_R.R
+    100052: Neck
+    100054: Outer_Tentacle1_L.L
+    100056: Outer_Tentacle1_R.R
+    100058: Outer_Tentacle2_L.L
+    100060: Outer_Tentacle2_R.R
+    100062: Outer_Tentacle_IK_L
+    100064: Outer_Tentacle_IK_R
+    100066: Pelvis_L.L
+    100068: Pelvis_R.R
+    100070: Root
+    100072: Root.001
+    100074: Shoulder_L.L
+    100076: Shoulder_R.R
+    100078: Spine1
+    100080: Spine2
+    100082: Spine3
+    100084: Tail
+    100086: Thumb1_L.L
+    100088: Thumb2_L.L
+    100090: Upper_Arm_L.L
+    100092: Upper_Arm_R.R
+    100094: Upper_Leg_L.L
+    100096: Upper_Leg_R.R
+    400000: Armature
+    400002: Bone.003_L.005.R
+    400004: Bone.R
+    400006: Elbow_Target_L
+    400008: Elbow_Target_R
+    400010: //RootNode
+    400012: Fingers_L.L
+    400014: Fingers_R.R
+    400016: Group28484.003
+    400018: Hand_L.L
+    400020: Hand_R.R
+    400022: Head
+    400024: IK_Arm_L.L
+    400026: IK_Arm_R.R
+    400028: IK_Leg_L.L
+    400030: IK_Leg_R.R
+    400032: Inner_Tentacle1_L.L
+    400034: Inner_Tentacle1_R.R
+    400036: Inner_Tentacle2_L.L
+    400038: Inner_Tentacle2_R.R
+    400040: Inner_Tentacle_IK_L
+    400042: Inner_Tentacle_IK_R
+    400044: Lower_Arm_L.L
+    400046: Lower_Arm_R.R
+    400048: Lower_Leg_L.L
+    400050: Lower_Leg_R.R
+    400052: Neck
+    400054: Outer_Tentacle1_L.L
+    400056: Outer_Tentacle1_R.R
+    400058: Outer_Tentacle2_L.L
+    400060: Outer_Tentacle2_R.R
+    400062: Outer_Tentacle_IK_L
+    400064: Outer_Tentacle_IK_R
+    400066: Pelvis_L.L
+    400068: Pelvis_R.R
+    400070: Root
+    400072: Root.001
+    400074: Shoulder_L.L
+    400076: Shoulder_R.R
+    400078: Spine1
+    400080: Spine2
+    400082: Spine3
+    400084: Tail
+    400086: Thumb1_L.L
+    400088: Thumb2_L.L
+    400090: Upper_Arm_L.L
+    400092: Upper_Arm_R.R
+    400094: Upper_Leg_L.L
+    400096: Upper_Leg_R.R
+    4300000: Group28484.003
+    7400000: Idle
+    7400002: Walk
+    7400004: Melee Attack
+    7400006: Ranged Attack
+    7400008: Death
+    7400010: Armature|Death
+    7400012: Armature|Idle
+    7400014: Armature|Melee Attack
+    7400016: Armature|Ranged Attack
+    7400018: Armature|Walk
+    7400020: Melee Attack0
+    9500000: //RootNode
+    13700000: Group28484.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Melee Attack0
+      takeName: Melee Attack
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .637404561
+        functionName: melee
+        data: 
+        objectReferenceParameter: {fileID: 120744, guid: fedcb077d3e49494283f832b1e479ed2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 13.6000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Melee Attack
+      takeName: Melee Attack
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .561068714
+        functionName: melee
+        data: 
+        objectReferenceParameter: {fileID: 120744, guid: fedcb077d3e49494283f832b1e479ed2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ranged Attack
+      takeName: Ranged Attack
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .187022895
+        functionName: Launch
+        data: 
+        objectReferenceParameter: {fileID: 120744, guid: fedcb077d3e49494283f832b1e479ed2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Death
+      takeName: Armature|Death
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 12.1999998
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Melee Attack
+      takeName: Armature|Melee Attack
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Ranged Attack
+      takeName: Armature|Ranged Attack
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Elbow_Target_L
+        weight: 1
+      - path: Armature/Root/Elbow_Target_R
+        weight: 1
+      - path: Armature/Root/IK_Arm_L.L
+        weight: 1
+      - path: Armature/Root/IK_Arm_R.R
+        weight: 1
+      - path: Armature/Root/IK_Leg_L.L
+        weight: 1
+      - path: Armature/Root/IK_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Inner_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_L
+        weight: 1
+      - path: Armature/Root/Outer_Tentacle_IK_R
+        weight: 1
+      - path: Armature/Root/Root.001
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_L.L/Upper_Leg_L.L/Lower_Leg_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Pelvis_R.R/Upper_Leg_R.R/Lower_Leg_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_L.L/Inner_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Inner_Tentacle1_R.R/Inner_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_L.L/Outer_Tentacle2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Neck/Head/Outer_Tentacle1_R.R/Outer_Tentacle2_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Hand_L.L/Fingers_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_L.L/Upper_Arm_L.L/Lower_Arm_L.L/Thumb1_L.L/Thumb2_L.L
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Bone.R/Bone.003_L.005.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Spine1/Spine2/Spine3/Shoulder_R.R/Upper_Arm_R.R/Lower_Arm_R.R/Hand_R.R/Fingers_R.R
+        weight: 1
+      - path: Armature/Root/Root.001/Tail
+        weight: 1
+      - path: Group28484.003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

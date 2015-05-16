@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\enemy_behaviour.cs">
+    <Files>
+      <File FileName="Assets\scripts\audio_manager.cs" Line="8" Column="2" />
+      <File FileName="Assets\scripts\player_input.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\UI_manager.cs" Line="107" Column="18" />
+      <File FileName="Assets\scripts\bodyPL_controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\next_tex.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\enemy_behaviour.cs" Line="70" Column="3" />
+      <File FileName="Assets\ball_of_energy.cs" Line="29" Column="15" />
+      <File FileName="Assets\scripts\asset_manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\round_manager.cs" Line="60" Column="3" />
+      <File FileName="Assets\text_change.cs" Line="7" Column="20" />
+      <File FileName="Assets\death_floor.cs" Line="8" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 23399259416a25a4fbe1c1d08f6fbd4e
+timeCreated: 1429385510
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bed _ Cube2
+    100002: Bed _ Cube_11
+    100004: Bed _ Cube_21
+    100006: Bed _ Cube_3
+    100008: Bed _1 Cube3
+    100010: Bed _1 Cube_12
+    100012: Bed _1 Cube_22
+    100014: Bed _1 Cube_32
+    100016: Bed lath Cube1
+    100018: Bed lath Cube_1
+    100020: Bed lath Cube_23
+    100022: Bed lath Cube_31
+    100024: Bed lath Cube_4
+    100026: Bed lath Cube_5
+    100028: Bed lath Cube_6
+    100030: Bed lath Cube_7
+    100032: Bed mattress
+    100034: Bed Side Cube
+    100036: Bed Side Cube_2
+    100038: Camera
+    100040: Cube
+    100042: Cube.002
+    100044: keyboard
+    100046: keyboard.001
+    100048: //RootNode
+    100050: Plane
+    100052: Plane.001
+    100054: Plane.002
+    100056: Plane.003
+    100058: Point
+    100060: table and tv.001
+    400000: Bed _ Cube2
+    400002: Bed _ Cube_11
+    400004: Bed _ Cube_21
+    400006: Bed _ Cube_3
+    400008: Bed _1 Cube3
+    400010: Bed _1 Cube_12
+    400012: Bed _1 Cube_22
+    400014: Bed _1 Cube_32
+    400016: Bed lath Cube1
+    400018: Bed lath Cube_1
+    400020: Bed lath Cube_23
+    400022: Bed lath Cube_31
+    400024: Bed lath Cube_4
+    400026: Bed lath Cube_5
+    400028: Bed lath Cube_6
+    400030: Bed lath Cube_7
+    400032: Bed mattress
+    400034: Bed Side Cube
+    400036: Bed Side Cube_2
+    400038: Camera
+    400040: Cube
+    400042: Cube.002
+    400044: keyboard
+    400046: keyboard.001
+    400048: //RootNode
+    400050: Plane
+    400052: Plane.001
+    400054: Plane.002
+    400056: Plane.003
+    400058: Point
+    400060: table and tv.001
+    2300000: Bed _ Cube2
+    2300002: Bed _ Cube_11
+    2300004: Bed _ Cube_21
+    2300006: Bed _ Cube_3
+    2300008: Bed _1 Cube3
+    2300010: Bed _1 Cube_12
+    2300012: Bed _1 Cube_22
+    2300014: Bed _1 Cube_32
+    2300016: Bed lath Cube1
+    2300018: Bed lath Cube_1
+    2300020: Bed lath Cube_23
+    2300022: Bed lath Cube_31
+    2300024: Bed lath Cube_4
+    2300026: Bed lath Cube_5
+    2300028: Bed lath Cube_6
+    2300030: Bed lath Cube_7
+    2300032: Bed mattress
+    2300034: Bed Side Cube
+    2300036: Bed Side Cube_2
+    2300038: Cube
+    2300040: Cube.002
+    2300042: keyboard
+    2300044: keyboard.001
+    2300046: Plane
+    2300048: Plane.001
+    2300050: Plane.002
+    2300052: Plane.003
+    2300054: table and tv.001
+    3300000: Bed _ Cube2
+    3300002: Bed _ Cube_11
+    3300004: Bed _ Cube_21
+    3300006: Bed _ Cube_3
+    3300008: Bed _1 Cube3
+    3300010: Bed _1 Cube_12
+    3300012: Bed _1 Cube_22
+    3300014: Bed _1 Cube_32
+    3300016: Bed lath Cube1
+    3300018: Bed lath Cube_1
+    3300020: Bed lath Cube_23
+    3300022: Bed lath Cube_31
+    3300024: Bed lath Cube_4
+    3300026: Bed lath Cube_5
+    3300028: Bed lath Cube_6
+    3300030: Bed lath Cube_7
+    3300032: Bed mattress
+    3300034: Bed Side Cube
+    3300036: Bed Side Cube_2
+    3300038: Cube
+    3300040: Cube.002
+    3300042: keyboard
+    3300044: keyboard.001
+    3300046: Plane
+    3300048: Plane.001
+    3300050: Plane.002
+    3300052: Plane.003
+    3300054: table and tv.001
+    4300000: Plane.003
+    4300002: Plane.002
+    4300004: keyboard.001
+    4300006: Bed _1 Cube_12
+    4300008: Bed Side Cube_2
+    4300010: Bed lath Cube_31
+    4300012: Bed _ Cube_11
+    4300014: Bed _ Cube2
+    4300016: Bed lath Cube_7
+    4300018: Bed _ Cube_3
+    4300020: Bed Side Cube
+    4300022: Bed lath Cube_4
+    4300024: Bed mattress
+    4300026: Bed lath Cube1
+    4300028: Bed _1 Cube_32
+    4300030: Bed lath Cube_5
+    4300032: Bed lath Cube_1
+    4300034: Bed lath Cube_6
+    4300036: Bed _1 Cube3
+    4300038: Bed _ Cube_21
+    4300040: Bed _1 Cube_22
+    4300042: Bed lath Cube_23
+    4300044: Plane.001
+    4300046: Plane
+    4300048: Cube
+    4300050: Cube.002
+    4300052: keyboard
+    4300054: table and tv.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
